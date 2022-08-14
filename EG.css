@@ -77,7 +77,7 @@ body{
     background-color:#252B37;
 }
  
- @import url('https://fonts.googleapis.com/css?family=Rubik:700&display=swap');
+
 
 
     #ge1{
@@ -116,7 +116,7 @@ body{
     color: #252B37;
     background-color: #151823;
     animation: textColor 10s ease infinite;
-    @include backlight(0, 5vw, 5vw, 0.75, #0fffc1, #7e0fff, 10s);
+   
       
     @keyframes textColor {
       0% {
